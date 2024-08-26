@@ -6,4 +6,4 @@ remote_theme: jekyll/minima
 
 # Minima theme settings
 minima:
-  skin: solarized-dark
+  skin: abhinavs/moonwalk
