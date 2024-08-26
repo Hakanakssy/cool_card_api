@@ -55,7 +55,7 @@ This error occurs if the apikey parameter is not sent or is null.
 #### 500 Internal Server Error:   
 This error occurs for server-side issues and when the user cannot be found in the database.  
 
-Example response:
+#### Example response:
 
 ````json
 {
