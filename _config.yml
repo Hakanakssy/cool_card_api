@@ -1,5 +1,5 @@
-title: My Awesome Site
-description: A site with a new Jekyll theme
+title: Cool Card API Docs
+description: 
 baseurl: "/"
 url: "https://hakanakssy.github.io/cool_card_api/"
 remote_theme: pages-themes/minimal@v0.2.0
